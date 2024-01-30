@@ -1,0 +1,5 @@
+i'm an devops trainee
+
+i'm teaching devops to this batch
+
+this class is about git practice
